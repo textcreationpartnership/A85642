@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory obtained by the King of France against the Prince of Conde near the city of Estamps, upon the Duke of Lorrains advance for raysing the siege: with the particulars thereof, and the manner how the said D. drew up his men in Batalia, &amp; afterward by the mediation of the D. of York, for 100000 crowns, revolted from the Prince of Conde to the King. Also the great engagement of the said Duke of York, with the Duke of Beaufort, who commanded the van of the army; and manner how Beaufort was routed, and beaten out of the field: with the advance of the Kings army towars Paris, and the resolution of the citizens thereupon, and declaring for the King. A bloudy fight in Ireland, between the Parliaments forces commanded by Major General Waller, and the Irish commanded by the Earl of Clenrickard: with the manner how the rebels fell upon the English garrisons, and a perfect narrative thereof. Sent in a letter to the right Honourable William Lenthal, Esquire, speaker to the Parliament of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85642</idno>
+            <idno type="STC">Wing G1782</idno>
+            <idno type="STC">Thomason E668_3</idno>
+            <idno type="STC">ESTC R206964</idno>
+            <idno type="EEBO-CITATION">99866042</idno>
+            <idno type="PROQUEST">99866042</idno>
+            <idno type="VID">166194</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166194)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 102:E668[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory obtained by the King of France against the Prince of Conde near the city of Estamps, upon the Duke of Lorrains advance for raysing the siege: with the particulars thereof, and the manner how the said D. drew up his men in Batalia, &amp; afterward by the mediation of the D. of York, for 100000 crowns, revolted from the Prince of Conde to the King. Also the great engagement of the said Duke of York, with the Duke of Beaufort, who commanded the van of the army; and manner how Beaufort was routed, and beaten out of the field: with the advance of the Kings army towars Paris, and the resolution of the citizens thereupon, and declaring for the King. A bloudy fight in Ireland, between the Parliaments forces commanded by Major General Waller, and the Irish commanded by the Earl of Clenrickard: with the manner how the rebels fell upon the English garrisons, and a perfect narrative thereof. Sent in a letter to the right Honourable William Lenthal, Esquire, speaker to the Parliament of England.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G: Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Fronde --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166194:1" rendition="simple:additions"/>
+            <p>A great VICTORY Obtained by the KING OF FRANCE AGAINST The Prince of Conde near the City of Eſtamps, upon the Duke of Lorrains advance for rayſing the ſiege: with the particulars thereof, and the manner how the ſaid D. drew up his men in Batalia, &amp; afterward by the me<g ref="char:EOLhyphen"/>diation of the D. of York, for 100000 Crowns, re<g ref="char:EOLhyphen"/>volted from the Prince of Conde to the King.</p>
+            <p>ALSO The great Engagement of the ſaid Duke of York, with the Duke of Beaufort, who commanded the Van of the Ar<g ref="char:EOLhyphen"/>my; and the manner how Beaufort was routed, and bea<g ref="char:EOLhyphen"/>ten out of the field: with the advance of the Kings Army towards Paris, and the reſolution of the Ci<g ref="char:EOLhyphen"/>tizens thereupon, and declaring for the King.</p>
+            <p>A Bloudy Fight in Ireland, between the Parliaments forces commanded by Major General Waller, and the Iriſh commanded by the Earl of Clenrickard: with the manner how the Rebels fell upon the Engliſh Garriſons, and a perfect Narrative thereof.</p>
+            <p>
+               <hi>SEnt in a Letter to the Right Honourable William Lenthal, Eſquire, Speaker to the Parliament of England.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>G: HORTON.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:166194:2"/>
+            <pb n="3" facs="tcp:166194:2"/>
+            <head>A great and BLOUDY FIGHT IN IRELAND Between The Parliaments forces, commanded by Major Gen. Wal<g ref="char:EOLhyphen"/>ler, and the Lord Broghil; and the Iriſh Army com<g ref="char:EOLhyphen"/>manded by the Earl of Clenrickard; ſent to the Right Honourable William Lenthal Eſquire, Speaker of the Parliament of the Common-wealth of England.</head>
+            <p>BY our laſt of the 13 of <hi>May,</hi> from Kilkenny, ſent by Capt. Vernon, we gave you an account of the Treaty then newly concluded on with the Earl of Weſtmeath, and the Lemſter officers of the enemies par<g ref="char:EOLhyphen"/>ty. Since that we underſtanding that the L. of Muskery, and his party in Kerry, that are very conſiderable did not ac<g ref="char:EOLhyphen"/>cept thereof, but did expect ſome better terms. The Major Gen. and the L. Broghil, drew to Drumagh, the onely con<g ref="char:EOLhyphen"/>ſiderable Caſtle the enemy held in the County of Cork, and was indeed a ſtrong and a ſecure hold for them, but by the bleſſing and help of the Lord that was rendred to you, of which the Lievt. Gen. gave you former account from
+<pb n="4" facs="tcp:166194:3"/>Youghal, and find that party of yours that reduced that place not to be ſufficient for reducing Roſſe, where the ſtrength of the enemy lay.</p>
+            <p>Upon debate and conference with Sir Hardreſs Waller and divers of your officers at Cork, it was reſolved to draw out what forces could beſt be ſpared from theſe parts to march into Kerry, and having gotten what ſup<g ref="char:EOLhyphen"/>plies were neceſſary, and could be had, they marched hence to Mallow, and did expect to be at Roſs in Kery on Sunday the 4 inſtant. Since their departure from us, we do hear there was ſome deſtruction among the enemy at Roſs, ſo as the Clergy party, and ſuch as adhered to that intereſt, crew out of Roſs, but my Lord of Muskerry, and ſuch as ſtood to him, do keep in Roſs, what may be the iſſue is not known. The greateſt body of the enemy is gathered together about Balleſhanon in Ulſter, under Clenrickard. And by letters of the 30 of May, from Commiſſiary Gen. Reynolds from Athlone, and by others we do underſtand that the enemy hath beſieged Balleſhanon, a houſe of the L. Eliots, and with 2 guns have made batteries againſt it, and have been 2 or 3 times repulſed, at laſt have gained it, and burnt it, before Sir Charls Coot could come to re<g ref="char:EOLhyphen"/>lieve it. And they have alſo taken the Caſtle of Dongale, and all the enemies forces at Ulſter, and Conaught are there injoyned. But Sir Charls Coot with his own party, and part of Commiſ. Gen. Reynolds party, are in purſuit of them on one ſide, and Col. Venables and his party on the other ſide; and Commiſ. Gen Reynolds with 100 horſe from Col. Sankey is alſo marched up, and orders ſent to Col. Hewſon to draw down that way alſo; ſo it is hoped (through the help of our Lord) they ſhal be ena<g ref="char:EOLhyphen"/>bled to find out that enemy, and to ingage with him What horſe and foot of the Lemſter enemy do come in, we can<g ref="char:EOLhyphen"/>not give you any account as yet, having not received our
+<pb n="5" facs="tcp:166194:3"/>ſelves any account of the ſame, onely <hi>Grace</hi> his party which did infeſt your quarters in Lemſter, moſt of his horſe are come in, and ſubmitted, and himſelf with 12 horſe, and about 70 that marched before, are gone to Clenrickard, and his foot being in all about 1000 are at preſent diſperſed, but do lie ſcattered in the Woods and Bogs, and your forces in theſe parts do dayly hunt and at<g ref="char:EOLhyphen"/>tend them. This is the preſent poſture of your forces here and in all parts their hands are full, and we hope you will not be unmindfull to continue your care in providing for them, the plentifull and good proviſions you have form<g ref="char:EOLhyphen"/>erly ordered to be ſent hither, are for the moſt part all come hither, which is a great comfort to the poor ſoul<g ref="char:EOLhyphen"/>diery, &amp; we do wiſh we had more of the intended recruits ſuch of them as are come already being very able, and fit for your ſervice, and were the reſidue that are appointed to come over (here before the ſummer be too far ſpent) it would much advantage your affairs as now they ſtand.</p>
+            <closer>
+               <signed>Your humble ſervant, Miles Corbet, Io. Ioxes.</signed>
+               <dateline>
+                  <hi>Cork</hi> 
+                  <date>
+                     <hi>Iune,</hi> 5, 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <head>A Letter from Col. Venab<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es from Charlemount, directed to the Governour of Dublin, <hi>dated 30 May 1652.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Conaught and Ultaugh being joyned, took Balli<g ref="char:EOLhyphen"/>ſhannan by ſurrender, but the ſame day my Lord Preſident of Conaught on the other ſide the water, and we arrived at the Gragh, without any intelligence that they had of the march, as by their intercepted letters appears, upon which, fearing to be diſcloſed run away, leaving a a Regiment in Baliſhannon, who next day yeelded the ſame, and guns, we are now following them: I onely writ before to give you notice, for if they get not victuals, they muſt disband, fight, ſubmit, or ſtarve, onely one Troop of ours ſcared them, they go over unacceſſable bogs, where
+<pb n="6" facs="tcp:166194:4"/>we cannot follow them, ſome have ſent to my Lord Preſi<g ref="char:EOLhyphen"/>dent of Conaught, to get protections. The Regiment that yeelded Balliſhanon have taken protection and capitula<g ref="char:EOLhyphen"/>ted for others now in their army to come in, 8000 Cows that were following them into Ulſter, were met with by Sir Charls Coot, and they have take protection in ſecure quarters, they were to have fed the Conaught forces in Ulſter, and now theſe being gone they muſt feed with the Ultaughs or ſtarve. They have in this laſt action, loſt cre<g ref="char:EOLhyphen"/>dit, courage Officers, guns, and have onely 8 barrels of powder remaining. They have prevailed by their lies, tel<g ref="char:EOLhyphen"/>ling that at Balliſhannon they had beat us, pray give notice to all parts not to believe ſuch reports, the protected Iriſh in theſe parts had deſigned once more to riſe, the enemy are ſo heartleſs they would not ſee us, nor ſtay that we might look upon them. I hear they intend to joyn with Grace in Lemſter. The enemy were 5000 at leaſt, they loſt 30 Commiſ. officers at Balliſhanon, and about 300 ſlain and wounded. Above 1200 more are ſince come into them. I ſubſcribe my ſelf,</p>
+            <closer>
+               <signed>Your humble ſervant, Robert Venables.</signed>
+               <dateline>
+                  <hi>Charlemount</hi> 
+                  <date>30 <hi>May,</hi> 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <p>Several Expreſſes are come from Paris, dated June 15. An abſtract whereof take as followeth. The Parliament of Bourdeaux being ſate, the Prince of Condi did motion, that it was fit to ſend Commiſſioners to that of Paris, together with a Copie of ſome late tranſactions, which the Parliament diſliked, and immediately aroſe without giving any an<g ref="char:EOLhyphen"/>ſwer, the next day the Prince being come again thinking to get an an<g ref="char:EOLhyphen"/>ſwer; the Parliament knowing of it did adjourn for three days. The next day the Aſſembly of Lormeir met again, where there was an or<g ref="char:EOLhyphen"/>der made for the baniſhing of all ſuſpected perſons, and upon pain of life not to return into the City, this was made known the ſame day, to 14 Members of the Parliament, amongſt them the Preſident Py<g ref="char:EOLhyphen"/>chon, The chief man of that Aſſembly finding that their Officers were fearfull to deliver that meſſage, went in his own perſon, and withall threatned them ſore, That if after the next day they were found in the
+<pb n="7" facs="tcp:166194:4"/>City they ſhould all be ſtabbed: and the better to know who is well affected or not, therefore they will compel the reſt of the Parliament to ſign certain Articles, which they call Articles of Union, and ſuſpect all thoſe who make any difficulty or refuſe it. The Duke of Lorrain upon the 11th inſtant, ſent an Expreſs to the Duke of Orleans to tell him, That ſeeing he had no real ſatisfaction upon his demands but de<g ref="char:EOLhyphen"/>lays, therefore he intended to march back again with his army into Flanders, which made the Duke of Orleans forthwith go to him, be<g ref="char:EOLhyphen"/>ing accompanied by the Prince of Conde, and ſeveral other Lords, and being come into the Camp there was very great conference with the Duke of Lorrain, which ended to the great ſatisfaction of both parties, which appeared immediately by the great rejoycings made on both ſides, and chiefly at the great Feaſt which was made them by the Count Ligneville, being returned hither, we hear they have made an offenſive and defenſive league to force the Court to conclude a peace with Spain, and thereupon the Prince of Conde hath ſent an expreſs Order to his Lievt. Gen. at Eſtamps, to advance on this ſide and come to joyn with the Lorrain army. The Commons of this City, have met this week ſeverall times in the Town-Hall, where many complaints were made of the many diſorders and wrongs dayly done by the Lorrain forces in the County of Brio, and it was ordered, that ſome in the name of the Aſſembly ſhould repair to the Duke of Orleans, and deſire ſome ſpee<g ref="char:EOLhyphen"/>dy remedy all thoſe evils; being come thither he heard them, and for their ſatisfaction told them, That he had not the command of that ar<g ref="char:EOLhyphen"/>my to which the Court had appointed their Quarters all along their march, that he had been forced to call in thoſe Forrain forces, by reaſon that he found them not ſo reſolute and conſtant as he was in the deſign wherein they all ſtood ingaged, for the expelling the Cardinal of Mazi<g ref="char:EOLhyphen"/>rine out of France, who was ſo bold as to have brought with him good ſtore of forrain ſouldiers, although there was ſeveral Declarations of the Kings confirmed by Parliaments for prohibiting the ſame, many fine ſmooth words to that purpoſe, having but little influence. The next day the ſame complaints were made to the Parl. and the matter being put in debate, it was reſolved by the major part to oppoſe thoſe Lorrai<g ref="char:EOLhyphen"/>ners by force of arms, and in caſe they went on in their wicked proceed<g ref="char:EOLhyphen"/>ings, that it ſhould be lawful to any Commoner to ſlay and deſtroy them to the utmoſt, but there riſing ſome differences, it was finally a<g ref="char:EOLhyphen"/>greed that the Princes ſhould be acquainted therewith, and intreated to find ſome ſpeedy remedy to all their grievances.</p>
+            <pb n="8" facs="tcp:166194:5"/>
+            <p>From France they write, that the titular Duke of York is exceeding active for the Kings Majeſty; and hath ſo far prevailed with the Duke of Lorrain, in his mediation for his Higneſs, for a revolt from the Prince of Conde, that the ſaid Duke is reſolved to quit that Kingdom, as appears by the enſuing abſtract; though notwithſtanding he had agreed with the Prince of Conde to fight againſt his Ma<g ref="char:EOLhyphen"/>jeſty, and in purſance thereof, drew his forces into the field, joyned with the D. of Beaufort, and placed his men in Battalia to receive the Kings party; but upon the ap<g ref="char:EOLhyphen"/>proach of Gen. Turein, and Col. James Stuart, with their forces, inſtead of fighting them at Ville Heaſe St. George, he very peaceably drew off without ſtriking one ſtroke, and left the P. of Condies men commanded by the D. of Beaufort, to the mercy of a conquering enemy; yet ſo gal<g ref="char:EOLhyphen"/>lantly did he diſpute the field, that he made an honoura<g ref="char:EOLhyphen"/>ble retreat but not without ſome loſſe; ſince which time, the Kings forces have taken Brie; and its conceived intends for Paris if poſſible, by reaſon that the Citizens ſeem to decline their reſolutions for the D. of Orleans, and begin to cry up the Kings intereſt. This is both a round turn, and ſudden change; and is chiefly occaſioned by the Duke of Lorrains revolt, who hath made an agreement for one hun<g ref="char:EOLhyphen"/>dred thouſand Crowns, to ſtand as a Neuter, and fight for neither parties.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
